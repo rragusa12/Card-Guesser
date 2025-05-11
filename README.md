@@ -1,2 +1,2 @@
 # Card-Guesser
-Short and sweet game to pass the time
+Short and sweet card guessing game to pass the time!
